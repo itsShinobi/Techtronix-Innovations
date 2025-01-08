@@ -24,7 +24,9 @@ I analyzed the company's transactional, customer, and financial data to address 
   - Sales peaked in April, with a notable dip in May, indicating a need for strategies to maintain momentum post-peak season.  
 - **Approach**:  
   - Used Power BI to analyze sales data across regions, product categories, and timeframes.  
-  - Created trend visualizations to identify patterns and best/worst performers.  
+  - Created trend visualizations to identify patterns and best/worst performers.
+![Sales Performance Dashboard](https://github.com/itsshinobi/Just-Data-Analytics/blob/main/Screenshot%202025-01-05%20063704.png)  
+
 
 ### **2. Customer Insights**  
 - **Insights Uncovered**:  
@@ -33,6 +35,7 @@ I analyzed the company's transactional, customer, and financial data to address 
 - **Approach**:  
   - Conducted segmentation analysis by sector and geography.  
   - Used heatmaps and pie charts to visualize customer distribution and preferences.  
+![Customer Segmentation Dashboard](https://github.com/itsshinobi/Just-Data-Analytics/blob/main/Screenshot%202025-01-05%20063854.png)
 
 ### **3. Inventory Optimization**  
 - **Insights Uncovered**:  
@@ -41,22 +44,21 @@ I analyzed the company's transactional, customer, and financial data to address 
 - **Proposed Solutions**:  
   - Implemented demand forecasting models to predict seasonal sales trends better.  
   - Designed real-time inventory dashboards to monitor stock levels.  
+![Inventory Management Dashboard](https://github.com/itsshinobi/Just-Data-Analytics/blob/main/Screenshot%202025-01-05%20063931.png)
 
-### **4. Profitability Analysis**  
+### **4. Profitability Analysis & Market Expansion Opportunities**  
 - **Insights Uncovered**:  
   - Sensors delivered the highest profit margins, while Robotics struggled due to higher production costs.  
-  - Q1 profitability trends inversely mirrored Q4, likely due to holiday discounts or increased production costs.  
-- **Approach**:  
-  - Evaluated revenue and production cost data across product categories.  
-  - Highlighted profitability metrics using KPIs and comparative charts.  
-
-### **5. Market Expansion Opportunities**  
-- **Insights Uncovered**:  
+  - Q1 profitability trends inversely mirrored Q4, likely due to holiday discounts or increased production costs.
   - North America and the Industrial sector showed significant growth potential.  
   - Robotics and Sensors emerged as key focus areas for market penetration.  
 - **Approach**:  
+  - Evaluated revenue and production cost data across product categories.  
+  - Highlighted profitability metrics using KPIs and comparative charts.
   - Conducted geographic and sectoral opportunity analysis using Power BI.  
-  - Recommended targeted marketing campaigns and strategic partnerships.  
+  - Recommended targeted marketing campaigns and strategic partnerships.   
+![Profitability Metrics Dashboard](https://github.com/itsshinobi/Just-Data-Analytics/blob/main/Screenshot%202025-01-05%20064001.png) 
+
 
 ---
 
@@ -89,7 +91,4 @@ I analyzed the company's transactional, customer, and financial data to address 
 
 ## 📫 Connect with Me  
 Interested in discussing this project or exploring how I can bring value to your team? Feel free to reach out:  
-- **Email**: your-email@example.com  
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
-
-Thank you for reviewing my work!  
+- **LinkedIn**: [Tobi Osinubi](https://www.linkedin.com/in/tobiosinubi/)  
