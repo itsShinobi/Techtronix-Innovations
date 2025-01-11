@@ -19,13 +19,13 @@ I analyzed the company's transactional, customer, and financial data to address 
 
 ### **1. Sales Performance Analysis**  
 - **Insights Uncovered**:  
-  - Sensors were the top-performing category, while Robotics displayed inconsistent sales across regions.  
+  - Microchips were the top-performing category.  
   - The APAC region led in sales volume, driven by strong demand in consumer electronics, whereas North America lagged, highlighting an opportunity for growth.  
   - Sales peaked in April, with a notable dip in May, indicating a need for strategies to maintain momentum post-peak season.  
 - **Approach**:  
   - Used Power BI to analyze sales data across regions, product categories, and timeframes.  
   - Created trend visualizations to identify patterns and best/worst performers.
-![Sales Performance Dashboard](https://github.com/itsshinobi/Just-Data-Analytics/blob/main/Screenshot%202025-01-05%20063704.png)  
+![Sales Performance Dashboard](https://github.com/itsShinobi/Techtronix-Innovations/blob/main/Screenshot%202025-01-05%20063704.png)  
 
 
 ### **2. Customer Insights**  
@@ -35,7 +35,7 @@ I analyzed the company's transactional, customer, and financial data to address 
 - **Approach**:  
   - Conducted segmentation analysis by sector and geography.  
   - Used heatmaps and pie charts to visualize customer distribution and preferences.  
-![Customer Segmentation Dashboard](https://github.com/itsshinobi/Just-Data-Analytics/blob/main/Screenshot%202025-01-05%20063854.png)
+![Customer Segmentation Dashboard](https://github.com/itsShinobi/Techtronix-Innovations/blob/main/Screenshot%202025-01-05%20063854.png)
 
 ### **3. Inventory Optimization**  
 - **Insights Uncovered**:  
@@ -44,11 +44,10 @@ I analyzed the company's transactional, customer, and financial data to address 
 - **Proposed Solutions**:  
   - Implemented demand forecasting models to predict seasonal sales trends better.  
   - Designed real-time inventory dashboards to monitor stock levels.  
-![Inventory Management Dashboard](https://github.com/itsshinobi/Just-Data-Analytics/blob/main/Screenshot%202025-01-05%20063931.png)
+![Inventory Management Dashboard](https://github.com/itsShinobi/Techtronix-Innovations/blob/main/Screenshot%202025-01-05%20063931.png)
 
 ### **4. Profitability Analysis & Market Expansion Opportunities**  
 - **Insights Uncovered**:  
-  - Sensors delivered the highest profit margins, while Robotics struggled due to higher production costs.  
   - Q1 profitability trends inversely mirrored Q4, likely due to holiday discounts or increased production costs.
   - North America and the Industrial sector showed significant growth potential.  
   - Robotics and Sensors emerged as key focus areas for market penetration.  
@@ -57,7 +56,7 @@ I analyzed the company's transactional, customer, and financial data to address 
   - Highlighted profitability metrics using KPIs and comparative charts.
   - Conducted geographic and sectoral opportunity analysis using Power BI.  
   - Recommended targeted marketing campaigns and strategic partnerships.   
-![Profitability Metrics Dashboard](https://github.com/itsshinobi/Just-Data-Analytics/blob/main/Screenshot%202025-01-05%20064001.png) 
+![Profitability Metrics Dashboard](https://github.com/itsShinobi/Techtronix-Innovations/blob/main/Screenshot%202025-01-05%20064001.png) 
 
 
 ---
@@ -77,7 +76,7 @@ I analyzed the company's transactional, customer, and financial data to address 
 ---
 
 ## 🛠️ Tools and Skills Used  
-- **Tools**: Power BI, SQL, Excel  
+- **Tools**: Power BI, Spreadsheets  
 - **Skills**: Data Cleaning, Visualization, Trend Analysis, Forecasting, and Profitability Assessment  
 
 ---
